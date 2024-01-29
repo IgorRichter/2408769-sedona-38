@@ -1,4 +1,4 @@
-# [Личный проект «Седона»](https://igorrichter.github.io/2408769-sedona-38/)
+# [Личный проект «Седона»](https://igorrichter.github.io/Sedona/)
 
 Студент: [Игорь Рихтер](https://up.htmlacademy.ru/htmlcss/38/user/2408769).\
 Наставник: [Александр Медведев](https://htmlacademy.ru/profile/exteep).
